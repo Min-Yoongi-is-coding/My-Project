@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Mamali-is-coding
-- 👀 I’m interested in Automation Test, Selenium, Appium, Python, Web development, Mysql etc'
-- 🌱 I’m currently learning Python and selenium.
+Found it before prod!!!
 
 <!---
 Min-Yoongi-is-coding/Min-Yoongi-is-coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
